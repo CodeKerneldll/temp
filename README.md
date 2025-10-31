@@ -26,4 +26,4 @@ Este projeto consiste em uma aplicação Python com interface gráfica (GUI) des
 1. Execute o script:
 
 ```bash
-python temp_converter.py
+python temp converter.py
